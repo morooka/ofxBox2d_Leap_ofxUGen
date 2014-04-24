@@ -1,0 +1,40 @@
+8
+
+dir
+73
+http://vanderlin.googlecode.com/svn/trunk/openframeworks/addons/ofxBox2d/scr/lib/Box2D/Include
+http://vanderlin.googlecode.com/svn
+
+
+
+2009-06-11T23:08:22.039155Z
+21
+vanderlin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e8b6a5fa-46ee-11de-9ab4-498524d4d007
+
+Box2D.h
+file
+
+
+
+
+2010-03-12T13:25:43.000000Z
+0149d103f5ffd94403a1f01f37959f66
+2009-06-11T23:08:22.039155Z
+21
+vanderlin
+
